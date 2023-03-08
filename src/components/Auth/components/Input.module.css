@@ -1,0 +1,14 @@
+label{
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+}
+
+input{
+  background-color: #EFF0F2;
+  border: none;
+  padding: 18px 0px 18px 29px;
+  line-height: 30px;
+  font-size: 1.25rem;
+  border-radius: 8px;
+}
